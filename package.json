@@ -1,0 +1,22 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000O\u0000O\u0000D\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3paKu/FOOD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3paKu/FOOD/issues"
+  },
+  "homepage": "https://github.com/3paKu/FOOD#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.22"
+  }
+}
